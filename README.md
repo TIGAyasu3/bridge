@@ -1,7 +1,6 @@
 # bridge 
 
-About Edu+Bridge
-
+Edu+Bridge
 Service Overview
 Edu+Bridge is an educational platform designed to connect elementary school classrooms across the globe for virtual exchange sessions. Teachers create classroom profiles, which are then matched with compatible participants based on factors such as themes, geography, class size, and language ability. The platform supports payment processing, videoconferencing, and reporting and analysis functions for a seamless remote exchange experience.
 
@@ -39,8 +38,7 @@ Edu+Bridge offers a different value proposition by specifically targeting elemen
 5. ClassDojo: Communication and organizational tool for teachers, students, and parents
 6. Superprof: Online platform connecting teachers and students worldwide for various subjects and formats
 
-**Distinguishing Factors**
-
+Distinguishing Factors
 1. Domain: Focused on connecting classrooms in different countries
 2. Tools: Providing unique cultural experiences for students
 3. Matching: Offering learning experiences tailored to themes and needs
