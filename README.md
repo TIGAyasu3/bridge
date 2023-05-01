@@ -20,7 +20,7 @@ Project Timeline
 6. 8/15/2023: Collect and analyze feedback, make improvements and bug fixes (4-6 weeks)
 
 Budget
-1. Prototype production: $500
+1. Prototype production: $500-700
 2. Service development: $25,000
 3. Hosting: $1,000
 4. Marketing: $3,000
