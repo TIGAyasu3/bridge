@@ -4,6 +4,9 @@ Edu+Bridge
 Service Overview
 Edu+Bridge is an educational platform designed to connect elementary school classrooms across the globe for virtual exchange sessions. Teachers create classroom profiles, which are then matched with compatible participants based on factors such as themes, geography, class size, and language ability. The platform supports payment processing, videoconferencing, and reporting and analysis functions for a seamless remote exchange experience.
 
+Mockup
+https://www.figma.com/proto/RTSyFxXAjTAgRzWz45ARL2/Edu%2B-Bridge?type=design&node-id=0-1&scaling=min-zoom&page-id=0%3A1
+
 Flowchart
 https://app.diagrams.net/#G194LVVFzpQbr1IZkhrOWGWRseFyv77Nfe
 
