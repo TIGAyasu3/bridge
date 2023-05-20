@@ -4,6 +4,9 @@ Edu+Bridge
 Service Overview
 Edu+Bridge is an educational platform designed to connect elementary school classrooms across the globe for virtual exchange sessions. Teachers create classroom profiles, which are then matched with compatible participants based on factors such as themes, geography, class size, and language ability. The platform supports payment processing, videoconferencing, and reporting and analysis functions for a seamless remote exchange experience.
 
+Repository url
+https://github.com/TIGAyasu3/bridge
+
 Landing page url 
 https://www.mixo.io/site/edu-connect-ghpe7/index.html
 
